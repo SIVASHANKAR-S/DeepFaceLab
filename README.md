@@ -1,4 +1,4 @@
-I just forked this repository for my study purose
+I just forked this repository for my study purpose
  
  
  
